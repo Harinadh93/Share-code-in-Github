@@ -1,0 +1,9 @@
+1. Create Git Repository in Github Account on Website
+2. Run the command "git init"
+3. Run this command in CCBP-IDE terminal to create a connection between your local repository and remote repository
+   "git remote add origin <repository-url>"
+4. Run this command to add the code changes in the files to the stage area "git add -A"
+5. Run this command to save changes to a local repository after staging the changes "git commit -m "commit message" "
+6. Run this command in the CCBP-IDE terminal "git branch -M main"
+7. Run this command to push your local repository changes to the remote repository "git push -u origin main"
+8. Copy the git repository url in Discussions to post code
